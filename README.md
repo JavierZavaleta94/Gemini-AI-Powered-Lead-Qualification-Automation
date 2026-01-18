@@ -4,8 +4,6 @@
 
 Gemini AI-Powered Lead Qualification is a workflow that leverages **generative AI** and **no-code automation** to prioritize sales leads, reduce manual review, and improve response time. This project demonstrates how AI and workflow automation can optimize lead management and focus teams on high-value opportunities.
 
-> *Note: The actual workflow cannot be shared or tested due to platform restrictions. A video walkthrough is available upon request.*
-
 ---
 
 ## Features & Highlights
