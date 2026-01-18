@@ -1,0 +1,7 @@
+Gemini AI Lead Qualification Workflow Demo
+
+This is a 2–3 minute walkthrough demonstrating the Zapier workflow, AI-powered lead scoring, real-time notifications, and Google Sheets logging.
+
+Watch the video here: [Cloud Video Link](https://drive.google.com/file/d/1OM3KCocY3b0eHPAGQ_8BTf0Izga88jkB/view)
+
+*Note: The actual Zapier workflow cannot be shared due to platform restrictions. This video demonstrates the workflow in action.*
